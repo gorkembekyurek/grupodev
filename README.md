@@ -13,3 +13,4 @@
 ![image alt](https://github.com/gorkembekyurek/grupodev/blob/c2c46c3dbd3d1e5ec9406458529b1c93d02f4ab7/3-2.png)
 ![image alt](https://github.com/gorkembekyurek/grupodev/blob/2205bc591cc8af5afe5a7ed18a932b96186c7ec0/3-3.png)
 ![image alt](https://github.com/gorkembekyurek/grupodev/blob/6853a816afb1810f5d198539f6990458550a966f/3-4.png)
+![image alt](https://github.com/gorkembekyurek/grupodev/blob/2347f2da9a9d4b5b60b29dc58d7f1751da441df3/3-5%2C3-6%20d%C3%BCzenlendi.png)
