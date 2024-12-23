@@ -5,3 +5,4 @@
 ![image alt](https://github.com/gorkembekyurek/grupodev/blob/0d68d814fdddc415059c6edd49e32b2045ba05ca/1-4.png)
 ![image alt](https://github.com/gorkembekyurek/grupodev/blob/db9842b490f22927184095964972ae6e7555a9dc/1-5%2C1-6%20d%C3%BCzenlendi.png)
 ![image alt](https://github.com/gorkembekyurek/grupodev/blob/88b801223fbd927d6a475de1da1aafc2386c337a/2-1.png)
+![image alt](https://github.com/gorkembekyurek/grupodev/blob/c540d4d3323eb0ffbdbe24512dbcdbf1c0f1f8bc/2-2.png)
