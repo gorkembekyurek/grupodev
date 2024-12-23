@@ -7,3 +7,4 @@
 ![image alt](https://github.com/gorkembekyurek/grupodev/blob/88b801223fbd927d6a475de1da1aafc2386c337a/2-1.png)
 ![image alt](https://github.com/gorkembekyurek/grupodev/blob/c540d4d3323eb0ffbdbe24512dbcdbf1c0f1f8bc/2-2.png)
 ![image alt](https://github.com/gorkembekyurek/grupodev/blob/0113aeef622c8984afd7fe59af415a785a5bece3/2-3.png)
+![image alt](https://github.com/gorkembekyurek/grupodev/blob/42f2634d16ac052de3ec7bb501974cd38e4e7ac4/2-4.png)
